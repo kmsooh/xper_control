@@ -5,5 +5,6 @@ int main()
 	printf("Now Start!!/n");
 	printf("Make branch/n");
 	printf("Great!!/n");
+	printf("Go on!!!!/n");
 	return 0;
 }

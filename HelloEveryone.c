@@ -10,5 +10,6 @@ int main()
 	printf("danger/n");
 	printf("Bomb/n");
 	printf("add develop3/n");
+	printf("why??/n");
 	return 0;
 }

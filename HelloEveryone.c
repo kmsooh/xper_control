@@ -9,6 +9,6 @@ int main()
 	printf("Go on!!!!/n");
 	printf("danger/n");
 	printf("Bomb/n");
-	printf("add develop3/n");
-	return 0;
+	printf("what???/n");
+     return 0;
 }

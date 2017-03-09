@@ -7,5 +7,6 @@ int main()
 	printf("Make branch/n");
 	printf("Great!!/n");
 	printf("Go on!!!!/n");
+	printf("Bomb/n");
 	return 0;
 }

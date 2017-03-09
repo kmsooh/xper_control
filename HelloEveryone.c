@@ -10,5 +10,7 @@ int main()
 	printf("danger/n");
 	printf("Bomb/n");
 	printf("what???/n");
-     return 0;
+	printf("add develop3/n");
+	printf("why??/n");
+	return 0;
 }

@@ -8,5 +8,6 @@ int main()
 	printf("Great!!/n");
 	printf("Go on!!!!/n");
 	printf("danger/n");
+	printf("Bomb/n");
 	return 0;
 }
